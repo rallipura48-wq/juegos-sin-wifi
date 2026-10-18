@@ -1,0 +1,17 @@
+JUEGOS SIN WIFI - PROYECTO ANDROID
+
+Este ZIP contiene el proyecto fuente para crear una app Android que abre el juego HTML sin internet.
+No es todavía un APK instalable.
+
+FORMA DE GENERAR EL APK DESDE EL CELULAR:
+1. Entra a github.com e inicia sesión.
+2. Crea un repositorio nuevo (por ejemplo: juegos-sin-wifi). Si GitHub pregunta, puede ser privado.
+3. Sube TODOS los archivos y carpetas de este ZIP al repositorio, manteniendo las carpetas.
+4. Abre la pestaña Actions y habilita Actions si te lo pide.
+5. Ejecuta el flujo "Construir APK" con el botón Run workflow (o espera a que termine tras subir archivos).
+6. Abre la ejecución terminada, baja el artefacto "Juegos-sin-WiFi-APK" y descomprímelo.
+7. Dentro estará app-debug.apk. Ábrelo en Android para instalarlo. Android puede pedir permiso para instalar apps desde el navegador/archivos.
+
+Importante:
+- La app está hecha para jugar sin conexión; los juegos incluidos son minijuegos originales del prototipo, no Roblox ni copias oficiales de juegos comerciales.
+- El APK de depuración es para probar/uso personal. Publicar en Google Play requiere preparar una versión firmada y cumplir las reglas actuales de Play Console; si eres menor, pide ayuda a un adulto responsable.
